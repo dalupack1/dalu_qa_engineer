@@ -2,11 +2,11 @@
 
 <h2>👨‍💻 Quality Assurance Automation Projects:</h2>
 
-- <b>Selenium Environment Page Example</b>
+- <b>Selenium Environment Page Example (Python)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Page Object Model Examples(Python, Selenium, Gherkin)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
+- <b>Feature File</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
@@ -28,7 +28,10 @@
 
 [linkedin]: https://linkedin.com/in/dalu-pack
 
-Here are some ideas to get you started:
+<!--
+
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

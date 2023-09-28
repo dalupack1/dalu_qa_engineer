@@ -14,14 +14,14 @@
   ![AllureReport](https://github.com/dalupack1/dalu_qa_engineer/assets/103129556/ed98d66b-f2b9-4417-aa6e-705281abdf12)
 
 
-<h2> 🤳 Connect with me:</h2>
-
-
-[<img align="left" alt="DaluPack | LinkedIn" width="22px" src="https://pngmind.com/wp-content/uploads/2019/08/Linkedin-Logo-Png-Transparent-Background-1.png" />][linkedin]
+<h2> 🤳 Connect with me:
+[<img align="left" alt="DaluPack | LinkedIn" width="22px" src="https://pngmind.com/wp-content/uploads/2019/08/Linkedin-Logo-Png-Transparent-Background-1.png" />]
 
 
 
 [linkedin]: https://linkedin.com/in/dalu-pack
+
+</h2>
 
 <!--
 
